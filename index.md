@@ -24,7 +24,7 @@ What can we do with this tool?
 
 The tool produces a plot based on a customer's entries that compares their current car's weight and fuel economy to the car that they wish to buy, predicting the new car's fuel economy. For example, if the consumer owns a Mazda RX4 and wishes to buy a car weighing 3200 pounds:
 
-![plot of chunk unnamed-chunk-1](assets/fig/unnamed-chunk-1-1.png)
+![plot of chunk unnamed-chunk-1](figure/unnamed-chunk-1-1.png)
 
 ---
 

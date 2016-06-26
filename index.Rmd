@@ -24,7 +24,7 @@ What can we do with this tool?
 
 The tool produces a plot based on a customer's entries that compares their current car's weight and fuel economy to the car that they wish to buy, predicting the new car's fuel economy. For example, if the consumer owns a Mazda RX4 and wishes to buy a car weighing 3200 pounds:
 
-```{r, echo= FALSE, results='asis'}
+```{r, echo= FALSE}
 library(datasets)
 data(mtcars)
 par(pin = c(1.5,1.5), mar = c(8,8,2,2))
